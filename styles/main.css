@@ -1,0 +1,11 @@
+/*Styling for the entire body section of the page*/
+.content {
+  width: 90%;
+  margin: 0 auto;
+  font-weight: 400; }
+
+/*Adjusting the space of the bottom 2 divs*/
+.row {
+  display: flex; }
+
+/*# sourceMappingURL=main.css.map */
